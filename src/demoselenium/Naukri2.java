@@ -23,7 +23,7 @@ public class Naukri2 {
 		     driver.switchTo().window(handle);
 		     driver.close();
 		     Thread.sleep(2000);
-		     
+		     driver.close();
 		}
 		
 		
