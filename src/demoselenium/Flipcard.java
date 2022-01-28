@@ -17,7 +17,7 @@ public class Flipcard {
 		System.out.println(title);
 		System.out.println(driver.getCurrentUrl());
 		
-		Thread.sleep(2000);
+		Thread.sleep(4000);
 		driver.close();
 		
 		
